@@ -1,2 +1,1 @@
 # eco
-It kinda sucks
